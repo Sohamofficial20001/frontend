@@ -23,7 +23,8 @@
     "ag-grid-vue3": "^32.1.0",
     "ionicons": "^7.4.0",
     "vue": "^3.3.0",
-    "vue-router": "^4.2.0"
+    "vue-router": "^4.2.0",
+    "vuetify": "^3.7.1"
   },
   "devDependencies": {
     "@capacitor/cli": "6.1.2",
